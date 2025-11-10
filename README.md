@@ -18,4 +18,4 @@ These labs are essential for software engineers and data scientists looking to f
 
 - <b>Data Preparation:</b> Includes scripts for cleaning, chunking, and formatting extracted data for vector databases and language models.
 
-- <b>Tooling:</b> Demonstrates effective use of powerful libraries like pymupdf (FitZ) and pdplumber.
+- <b>Tooling:</b> Demonstrates effective use of powerful libraries like `pymupdf` (FitZ) and `pdplumber`.
