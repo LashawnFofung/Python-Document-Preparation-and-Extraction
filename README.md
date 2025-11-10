@@ -8,7 +8,7 @@ These labs are essential for software engineers and data scientists looking to f
 
 ##
 
-🚀 Key Features
+### 🚀 Key Features
 
 - <b>Robust PDF Parsing:</b> Efficiently handles complex layouts, multi-page documents, and various encoding issues using industry-standard libraries.
 
@@ -22,7 +22,7 @@ These labs are essential for software engineers and data scientists looking to f
 
 ##
 
-🔬 Core Extraction Tools Used
+### 🔬 Core Extraction Tools Used
 
 | Library | Primary Use Case |
 | :--- | :--- |
