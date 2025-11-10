@@ -18,4 +18,15 @@ These labs are essential for software engineers and data scientists looking to f
 
 - <b>Data Preparation:</b> Includes scripts for cleaning, chunking, and formatting extracted data for vector databases and language models.
 
-- <b>Tooling:</b> Demonstrates effective use of powerful libraries like `pymupdf` (FitZ) and `pdplumber`.
+- <b>Tooling:</b> Demonstrates effective use of powerful libraries like `pymupdf` <b>(FitZ)/</b> and `pdplumber`.
+
+##
+
+🔬 Core Extraction Tools Used
+
+| Library | Primary Use Case |
+| :--- | :--- |
+| **`pymupdf`** |	High-speed, robust text and image extraction from PDFs. |
+| **`pdplumber`** |	Accurate detection and extraction of tabular data from PDF files. |
+| **`pydf2`** |	General PDF manipulation (merging, splitting pages). |
+| **`pandas`** |	Data structuring, cleaning, and preparation of extracted tables. |
