@@ -1,6 +1,6 @@
 # 📚Python-Document-Preparation-and-Extraction
 
-Scripts for reliable and scalable data extraction from unstructured documents (e.g., PDFs). Learn to build pipelines for text and table parsing, transforming complex documents into high-quality, structured datasets for product use cases.
+Scripts for reliable and scalable data preparation and extraction from unstructured documents (e.g., PDFs). Learn to build pipelines for text and table parsing, transforming complex documents into high-quality, structured datasets for product use cases.
 
 This repository hosts a set of practical Python scripts and Jupyter notebooks focused on Document Data Engineering. The core goal is to provide reliable, scalable workflows for data preparation and extraction from unstructured document formats, primarily PDFs.
 
