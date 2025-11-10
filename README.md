@@ -26,6 +26,7 @@ These features ensure the extracted data is clean, accurate, and optimized for A
 
 - <b>Chunking and Segmentation:</b>  Dividing the clean text into smaller, meaningful pieces (chunks) based on semantic boundaries (sections, paragraphs). This is crucial for RAG (Retrieval-Augmented Generation) systems and effective LLM processing.
 
+<br></br>
 
 ✨ <b>Extraction</b>
 
