@@ -50,3 +50,16 @@ These features ensure the extracted data is clean, accurate, and optimized for A
 | **`pdplumber`** |	Accurate detection and extraction of tabular data from PDF files. |
 | **`pydf2`** |	General PDF manipulation (merging, splitting pages). |
 | **`pandas`** |	Data structuring, cleaning, and preparation of extracted tables. |
+
+
+##
+
+### Task (src files) Python - CoLab Notebooks
+ - Python & Goolgle Colab
+ - Python Data Extraction
+ - Optimizing OCR
+ - Implementing RAG
+ - Optimizing RAG Pipelines
+ - Blob Processing & Classification
+ - Interactive Chatbot
+ - AI-Powered Document Automation Platform
