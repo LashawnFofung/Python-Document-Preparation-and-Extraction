@@ -61,14 +61,21 @@ These features ensure the extracted data is clean, accurate, and optimized for A
      
    - <i>Review the `Work with JSON Data` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Work_with_JSON_Data.ipynb)
      - <i>Data `sample.json`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample.json)
+   
+   - <i>Review the `Perform text Cleaning and Standardization` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Perform_Text_Cleaning_and_Standardization.ipynb)
+     - <i>Data `text_sample.txt`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/text_sample.txt)
+   
+   - <i>Review the `Enhanced A Scanned Document Using Pre-processing` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Enhance_a_Scanned_Document_Using_PreProcessing.ipynb)
+     - <i>Data `noisy_image_sample.jpg`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/noisy_image_sample.jpg)
+ 
  
  - <b>Python Data Extraction</b>
-   - <i>Review the `Work with JSON Data` code:</i> [HERE](URL)
-     - <i>Data:</i> [HERE](URL)
+   - <i>Review the `add file name` code:</i> [HERE](URL)
+     - <i>Data `add data filename`:</i> [HERE](URL)
 
  - <b>Optimizing OCR</b>
-   - <i>Review the code:</i> [HERE](link url)
-     - <i>Data:</i> [HERE](URL)
+   - <i>Review the `add file name`:</i> [HERE](link url)
+     - <i>Data `add data filename`:</i> [HERE](URL)
  
  - <b>Implementing RAG</b> 
 
