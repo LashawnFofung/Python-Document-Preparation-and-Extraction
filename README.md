@@ -68,21 +68,38 @@ These features ensure the extracted data is clean, accurate, and optimized for A
    - <i>Review the `Enhanced A Scanned Document Using Pre-processing` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Enhance_a_Scanned_Document_Using_PreProcessing.ipynb)
      - <i>Data `noisy_image_sample.jpg`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/noisy_image_sample.jpg)
  
- 
+##
+
  - <b>Python Data Extraction</b>
+   - <i>Review the `Python Document Preparation and Extraction` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Python_Libraries_for_Data_Extraction.ipynb)
+     - <i>Data `sample_title_report.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample_title_report.pdf)
+
    - <i>Review the `add file name` code:</i> [HERE](URL)
      - <i>Data `add data filename`:</i> [HERE](URL)
 
+ ##
+ 
  - <b>Optimizing OCR</b>
    - <i>Review the `add file name`:</i> [HERE](link url)
      - <i>Data `add data filename`:</i> [HERE](URL)
+
+ ##
  
  - <b>Implementing RAG</b> 
 
+##
+
+
  - <b>Optimizing RAG Pipelines</b>
 
+##
+
  - <b>Blob Processing & Classification</b>
+
+ ##
  
  - <b>Interactive Chatbot</b>
+
+ ##
  
  - <b>AI-Powered Document Automation Platform</b>
