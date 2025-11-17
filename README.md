@@ -54,11 +54,14 @@ These features ensure the extracted data is clean, accurate, and optimized for A
 
 ##
 
-### Task (src files) Python - CoLab Notebooks
+### Task (src files) Python - Colab Notebooks
  - Python & Goolgle Colab
+  - <i>Review the `Cleaning Mortgage Loan Data` code:</i> [HERE]([link url](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/cleaning_mortgage_loan_data.ipynb))
  - Python Data Extraction
+  - <i>Review the code:</i> [HERE](link url)
  - Optimizing OCR
- - Implementing RAG
+  - <i>Review the code:</i> [HERE](link url)
+ - Implementing RAG 
  - Optimizing RAG Pipelines
  - Blob Processing & Classification
  - Interactive Chatbot
