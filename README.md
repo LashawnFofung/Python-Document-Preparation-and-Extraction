@@ -71,11 +71,17 @@ These features ensure the extracted data is clean, accurate, and optimized for A
 ##
 
  - <b>Python Data Extraction</b>
-   - <i>Review the `Python Document Preparation and Extraction` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Python_Libraries_for_Data_Extraction.ipynb)
+   - <i>Review the `Python Libraries for Data Extraction` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Python_Libraries_for_Data_Extraction.ipynb)
      - <i>Data `sample_title_report.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample_title_report.pdf)
 
+   - <i>Review the `Resume Parser with PyMuPDF` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Resume_Parser_with_PyMuPDF.ipynb)
+     - <i>Data `sample_resume.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample_resume.pdf)
+
    - <i>Review the `add file name` code:</i> [HERE](URL)
-     - <i>Data `add data filename`:</i> [HERE](URL)
+        - <i>Data `add data filename`:</i> [HERE](URL)
+ 
+       
+
 
  ##
  
