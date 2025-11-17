@@ -57,17 +57,25 @@ These features ensure the extracted data is clean, accurate, and optimized for A
 ### Task (src files) Python - Colab Notebooks
  - <b>Python & Goolgle Colab</b>
    - <i>Review the `Cleaning Mortgage Loan Data` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/cleaning_mortgage_loan_data.ipynb)
-     - <i>Data:</i> [HERE](URL)
+     - <i>Data `bank_loan.csv`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/bank_loan.csv)
+     
    - <i>Review the `Work with JSON Data` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Work_with_JSON_Data.ipynb)
      - <i>Data `sample.json`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample.json)
+ 
  - <b>Python Data Extraction</b>
    - <i>Review the `Work with JSON Data` code:</i> [HERE](URL)
-    - <i>Data:</i> [HERE](URL)
- - Optimizing OCR
+     - <i>Data:</i> [HERE](URL)
+
+ - <b>Optimizing OCR</b>
    - <i>Review the code:</i> [HERE](link url)
-    - <i>Data:</i> [HERE](URL)
- - Implementing RAG 
- - Optimizing RAG Pipelines
- - Blob Processing & Classification
- - Interactive Chatbot
- - AI-Powered Document Automation Platform
+     - <i>Data:</i> [HERE](URL)
+ 
+ - <b>Implementing RAG</b> 
+
+ - <b>Optimizing RAG Pipelines</b>
+
+ - <b>Blob Processing & Classification</b>
+ 
+ - <b>Interactive Chatbot</b>
+ 
+ - <b>AI-Powered Document Automation Platform</b>
