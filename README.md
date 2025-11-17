@@ -83,7 +83,9 @@ These features ensure the extracted data is clean, accurate, and optimized for A
   - <i>Review the `Table Extraction From Sample PDF`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Table_Extraction_From_Sample_PDF.ipynb)
      - <i>Data `foo.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/foo.pdf)
 
-       
+   - <i>Review the `Extract Key Fields from the Loan Worksheet`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extract_Key_Fields_from_the_Loan_Worksheet.ipynb)
+     - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
+     
 
 
  ##
