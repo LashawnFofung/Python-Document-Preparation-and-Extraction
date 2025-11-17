@@ -86,14 +86,15 @@ These features ensure the extracted data is clean, accurate, and optimized for A
    - <i>Review the `Extract Key Fields from the Loan Worksheet`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extract_Key_Fields_from_the_Loan_Worksheet.ipynb)
      - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
      
-
-
  ##
  
  - <b>Optimizing OCR</b>
-   - <i>Review the `add file name`:</i> [HERE](link url)
+   - <i>Review the `Extracting text & Bounding Boxes from Scanned PDFs`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extracting_Text_%26_Bounding_Boxes_from_Scanned_PDFs.ipynb)
      - <i>Data `add data filename`:</i> [HERE](URL)
 
+   - <i>Review the `add file name`:</i> [HERE](link url)
+     - <i>Data `add data filename`:</i> [HERE](URL)
+ 
  ##
  
  - <b>Implementing RAG</b> 
