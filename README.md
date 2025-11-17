@@ -77,8 +77,8 @@ These features ensure the extracted data is clean, accurate, and optimized for A
    - <i>Review the `Resume Parser with PyMuPDF` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Resume_Parser_with_PyMuPDF.ipynb)
      - <i>Data `sample_resume.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample_resume.pdf)
 
-   - <i>Review the `add file name` code:</i> [HERE](URL)
-        - <i>Data `add data filename`:</i> [HERE](URL)
+   - <i>Review the `Extract and Structure Data from Mortgage PDFs` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extract_and_Structure_Data_from_Mortgage_PDFs.ipynb)
+        - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
  
        
 
