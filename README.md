@@ -74,18 +74,23 @@ These features ensure the extracted data is clean, accurate, and optimized for A
    - <i>Review the `Python Libraries for Data Extraction` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Python_Libraries_for_Data_Extraction.ipynb)
      - <i>Data `sample_title_report.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample_title_report.pdf)
 
-   - <i>Review the `Resume Parser with PyMuPDF` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Resume_Parser_with_PyMuPDF.ipynb)
-     - <i>Data `sample_resume.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample_resume.pdf)
+    - <i>Review the `Resume Parser with PyMuPDF` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Resume_Parser_with_PyMuPDF.ipynb)
+      - <i>Data `sample_resume.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample_resume.pdf)
+ 
+    - <i>Review the `Extract and Structure Data from Mortgage PDFs` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extract_and_Structure_Data_from_Mortgage_PDFs.ipynb)
+         - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
 
-   - <i>Review the `Extract and Structure Data from Mortgage PDFs` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extract_and_Structure_Data_from_Mortgage_PDFs.ipynb)
-        - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
-
-  - <i>Review the `Table Extraction From Sample PDF`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Table_Extraction_From_Sample_PDF.ipynb)
-     - <i>Data `foo.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/foo.pdf)
-
-   - <i>Review the `Extract Key Fields from the Loan Worksheet`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extract_Key_Fields_from_the_Loan_Worksheet.ipynb)
-     - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
+   - <i>Review the `Regular Expressions (Regex) Documentation`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Regular_Expressions_(Regex)_Documentation.ipynb)
+        - <i>Data `loan_application.txt`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/Loan%20Application%20Form.txt)
+ 
+   - <i>Review the `Table Extraction From Sample PDF`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Table_Extraction_From_Sample_PDF.ipynb)
+      - <i>Data `foo.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/foo.pdf)
+ 
+    - <i>Review the `Extract Key Fields from the Loan Worksheet`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extract_Key_Fields_from_the_Loan_Worksheet.ipynb)
+      - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
      
+ 
+ 
  ##
  
  - <b>Optimizing OCR</b>
