@@ -79,7 +79,10 @@ These features ensure the extracted data is clean, accurate, and optimized for A
 
    - <i>Review the `Extract and Structure Data from Mortgage PDFs` code:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extract_and_Structure_Data_from_Mortgage_PDFs.ipynb)
         - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
- 
+
+  - <i>Review the `Table Extraction From Sample PDF`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Table_Extraction_From_Sample_PDF.ipynb)
+     - <i>Data `foo.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/foo.pdf)
+
        
 
 
