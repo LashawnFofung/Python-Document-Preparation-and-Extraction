@@ -102,5 +102,6 @@ These features ensure the extracted data is clean, accurate, and optimized for A
 
    - <i>Review the `Layout OCR Demo`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Layout_OCR_Demo.ipynb)
      - <i>Data `Loan Fees WorksheetNew-2`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew-2.pdf)
- 
+   - <i>Review the `Analyze a Scanned PDF (End to End)`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Compare_3_OCR_Engines_on_a_Mortgage_PDF.ipynb)
+      - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
  
