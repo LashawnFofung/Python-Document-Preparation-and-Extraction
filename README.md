@@ -90,7 +90,7 @@ These features ensure the extracted data is clean, accurate, and optimized for A
  
  - <b>Optimizing OCR</b>
    - <i>Review the `Extracting text & Bounding Boxes from Scanned PDFs`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Extracting_Text_%26_Bounding_Boxes_from_Scanned_PDFs.ipynb)
-     - <i>Data `add data filename`:</i> [HERE](URL)
+     - <i>Data `sample_mortgage_document.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/sample_mortgage_document.pdf)
 
    - <i>Review the `add file name`:</i> [HERE](link url)
      - <i>Data `add data filename`:</i> [HERE](URL)
