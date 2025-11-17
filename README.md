@@ -81,7 +81,7 @@ These features ensure the extracted data is clean, accurate, and optimized for A
          - <i>Data `LenderFeesWorksheetNew`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew.pdf)
 
    - <i>Review the `Regular Expressions (Regex) Documentation`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Regular_Expressions_(Regex)_Documentation.ipynb)
-        - <i>Data `loan_application.txt`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/Loan%20Application%20Form.txt)
+        - <i>Data `loan_application.txt`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/loan_application.txt)
  
    - <i>Review the `Table Extraction From Sample PDF`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Table_Extraction_From_Sample_PDF.ipynb)
       - <i>Data `foo.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/foo.pdf)
