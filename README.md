@@ -99,6 +99,8 @@ These features ensure the extracted data is clean, accurate, and optimized for A
      - <i>Data `Loan Fees WorksheetNew-2`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew-2.pdf)
  
  ##
+
+ ## BELOW SECTIONS: PENDING 
  
  - <b>Implementing RAG</b> 
    - <i>Review the `add filename`:</i> [HERE](URL)
