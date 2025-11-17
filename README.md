@@ -94,12 +94,15 @@ These features ensure the extracted data is clean, accurate, and optimized for A
 
    - <i>Review the `Analyze a Scanned PDF (End to End)`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Analyze_a_Scanned_PDF_(End_to_End).ipynb)
      - <i>Data `MTG_10009588.pdf`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/MTG_10009588.pdf)
-   
+
+   - <i>Review the `Layout OCR Demo`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Layout_OCR_Demo.ipynb)
+     - <i>Data `Loan Fees WorksheetNew-2`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew-2.pdf)
  
  ##
  
  - <b>Implementing RAG</b> 
-
+   - <i>Review the `add filename`:</i> [HERE](URL)
+     - <i>Data `add data filename`:</i> [HERE](URL)
 ##
 
 
