@@ -103,26 +103,4 @@ These features ensure the extracted data is clean, accurate, and optimized for A
    - <i>Review the `Layout OCR Demo`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/src/Task_Layout_OCR_Demo.ipynb)
      - <i>Data `Loan Fees WorksheetNew-2`:</i> [HERE](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction/blob/main/data/LenderFeesWorksheetNew-2.pdf)
  
- ##
-
- ## BELOW SECTIONS: PENDING 
  
- - <b>Implementing RAG</b> 
-   - <i>Review the `add filename`:</i> [HERE](URL)
-     - <i>Data `add data filename`:</i> [HERE](URL)
-##
-
-
- - <b>Optimizing RAG Pipelines</b>
-
-##
-
- - <b>Blob Processing & Classification</b>
-
- ##
- 
- - <b>Interactive Chatbot</b>
-
- ##
- 
- - <b>AI-Powered Document Automation Platform</b>
